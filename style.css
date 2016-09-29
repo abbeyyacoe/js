@@ -1,0 +1,10 @@
+nav {
+	font-size: 20px;
+	align-content: center;
+	text-align: center;
+	font-family: inconsolata;
+}
+
+a:hover nav {
+	color: blue;
+}
